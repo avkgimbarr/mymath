@@ -1,3 +1,3 @@
-module github.com/avkgimbarr/pizda
+module github.com/avkgimbarr/mymath1
 
 go 1.19

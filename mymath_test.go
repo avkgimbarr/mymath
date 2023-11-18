@@ -1,4 +1,4 @@
-package pizda
+package mymath
 
 import (
 	"testing"
