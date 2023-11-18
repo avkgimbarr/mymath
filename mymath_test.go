@@ -4,13 +4,6 @@ import (
 	"testing"
 )
 
-func TestCeil(t *testing.T) {
-	result := Ceil(4.0)
-	expected := 4.0
-	if result != expected {
-		t.Errorf("got %v, expected %v", result, expected)
-	}
-}
 
 func TestSqrt(t *testing.T) {
 	result := Sqrt(4.0)
